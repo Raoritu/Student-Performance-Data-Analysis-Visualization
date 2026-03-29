@@ -1,4 +1,4 @@
-*Student Performance Data Analysis & Visualization*
+Student Performance Data Analysis & Visualization
 
 ​This project is a part of my MCA final year coursework, focusing on exploratory data analysis (EDA) using Python. It demonstrates the ability to handle structured data, perform statistical operations, and derive meaningful insights.
 
@@ -24,5 +24,6 @@ avg_marks = np.mean(marks, axis=0)
 print("Subject-wise Average:", avg_marks)
 
 Author
+
 *​Ritu*
 Final Year MCA Student | Aspiring Cyber Security & Data Professional
